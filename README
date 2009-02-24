@@ -1,0 +1,3 @@
+Move the mctest directory to your memcached source directory.
+Make sure that you have built the memcached-debug binary there.
+In the mctest directory run the tests with "make test".
